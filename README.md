@@ -45,10 +45,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizFernandoBarreto&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandoBarreto&layout=compact&theme=tokyonight&title_color=00FFAA" alt="Top Languages" />
 </p>
 
