@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou Barreto!</h1>
 
-<!--
-**LuizFernandoBarreto/LuizFernandoBarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Junior+Front-End+Developer;HTML%2C+CSS+e+JavaScript;Apaixonado+por+criar+interfaces" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="200" alt="Coding GIF" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+Sou um desenvolvedor front-end em formação, focado em construir interfaces bonitas e funcionais. Amo transformar ideias em código usando as tecnologias da web.
+
+- 🌱 Atualmente estudando **HTML, CSS, JavaScript**
+- 🔭 Buscando minha primeira oportunidade como **Front-End Developer**
+- ⚡ Gosto de desafios e de aprender novas tecnologias
+
+---
+
+## 🛠️ Tecnologias que domino
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Contato
+
+- ✉️ barreto@email.com
+- 💼 [LinkedIn](https://www.linkedin.com)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0BDA51&height=100&section=footer"/>
+</p>
