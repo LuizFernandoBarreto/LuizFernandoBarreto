@@ -1,47 +1,66 @@
-<h1 align="center">👋 Olá, eu sou Barreto!</h1>
+<h1 align="center">🚀 Olá, eu sou o Barreto!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Junior+Front-End+Developer;HTML%2C+CSS+e+JavaScript;Apaixonado+por+criar+interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+interfaces+incríveis;Front-End+Developer+em+ascensão;HTML%2C+CSS+e+JavaScript+no+DNA;Apaixonado+por+tecnologia+e+design!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="200" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="Coding GIF" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## ✨ Sobre mim
 
-Sou um desenvolvedor front-end em formação, focado em construir interfaces bonitas e funcionais. Amo transformar ideias em código usando as tecnologias da web.
+🎨 **Criativo por natureza, programador por paixão.**  
+💻 Busco sempre criar experiências que encantem os usuários e entreguem valor real.
 
-- 🌱 Atualmente estudando **HTML, CSS, JavaScript**
-- 🔭 Buscando minha primeira oportunidade como **Front-End Developer**
-- ⚡ Gosto de desafios e de aprender novas tecnologias
+📚 Atualmente, estou me aperfeiçoando em:
+- **HTML5** para estruturar
+- **CSS3** para dar vida ao design
+- **JavaScript** para interatividade e dinamismo
 
----
+🚀 **Objetivo:** Conseguir minha primeira oportunidade como Front-End Developer para aplicar minhas habilidades e continuar evoluindo.
 
-## 🛠️ Tecnologias que domino
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
+💡 **Diferenciais:** Atenção aos detalhes, curiosidade constante e capacidade de aprender rápido.
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizFernandoBarreto&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 </p>
-
-
 
 ---
 
-## 📫 Contato
+## 🔥 Estatísticas do GitHub
 
-- ✉️ l.fernandobarreto1997@gmail.com
-- 💼 [LinkedIn] - https://l1nk.dev/Linkedin-LuizFernando
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizFernandoBarreto&show_icons=true&theme=tokyonight&title_color=00FFAA&icon_color=00FFAA" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizFernandoBarreto&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandoBarreto&layout=compact&theme=tokyonight&title_color=00FFAA" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Como falar comigo
+
+- 📧 **Email:** l.fernandobarreto1997@gmail.com  
+- 🔗 **LinkedIn:** [Meu perfil](https://l1nk.dev/Linkedin-LuizFernando)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=120&section=footer"/>
+</p>
