@@ -57,10 +57,4 @@
 ## 📫 Como falar comigo
 
 - 📧 **Email:** l.fernandobarreto1997@gmail.com  
-- 🔗 **LinkedIn:** [Meu perfil](https://l1nk.dev/Linkedin-LuizFernando)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=120&section=footer"/>
-</p>
+- 🔗 **LinkedIn:** https://bit.ly/3I74ofr
