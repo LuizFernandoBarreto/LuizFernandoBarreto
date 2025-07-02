@@ -45,5 +45,5 @@ Sou um desenvolvedor front-end em formação, focado em construir interfaces bon
 ## 📫 Contato
 
 - ✉️ l.fernandobarreto1997@gmail.com
-- 💼 [LinkedIn] - l1nk.dev/Linkedin-LuizFernando
+- 💼 [LinkedIn] - https://l1nk.dev/Linkedin-LuizFernando
 
