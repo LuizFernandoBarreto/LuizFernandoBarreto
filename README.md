@@ -15,7 +15,7 @@
 🎨 **Criativo por natureza, programador por paixão.**  
 💻 Busco sempre criar experiências que encantem os usuários e entreguem valor real.
 
-📚 Atualmente, estou me aperfeiçoando em:
+📚 Domino essa linguagens:
 - **HTML5** para estruturar
 - **CSS3** para dar vida ao design
 - **JavaScript** para interatividade e dinamismo
