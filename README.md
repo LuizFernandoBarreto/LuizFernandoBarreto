@@ -45,10 +45,5 @@ Sou um desenvolvedor front-end em formação, focado em construir interfaces bon
 ## 📫 Contato
 
 - ✉️ l.fernandobarreto1997@gmail.com
-- 💼 [LinkedIn] - https://acesse.one/hqpoq
+- 💼 [LinkedIn] - l1nk.dev/Linkedin-LuizFernando
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0BDA51&height=100&section=footer"/>
-</p>
