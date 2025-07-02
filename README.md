@@ -16,7 +16,7 @@
 💻 Busco sempre criar experiências que encantem os usuários e entreguem valor real.
 
 📚 
-- **Inglês** para ultrapassar a barreira da linguagem
+- **INGLÊS** para ultrapassar a barreira da linguagem
 - **HTML5** para estruturar
 - **CSS3** para dar vida ao design
 - **JavaScript** para interatividade e dinamismo
