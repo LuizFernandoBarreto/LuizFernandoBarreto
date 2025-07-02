@@ -44,8 +44,8 @@ Sou um desenvolvedor front-end em formação, focado em construir interfaces bon
 
 ## 📫 Contato
 
-- ✉️ barreto@email.com
-- 💼 [LinkedIn](https://www.linkedin.com)
+- ✉️ l.fernandobarreto1997@gmail.com
+- 💼 [LinkedIn] - https://acesse.one/hqpoq
 
 ---
 
