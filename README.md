@@ -52,6 +52,6 @@ Sou Luiz Fernando Barreto, estudante de programação com foco em **Desenvolvime
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/LuizFernandoBarreto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandoBarreto&layout=compact&theme=radical&title_color=FF69B4" alt="Top Languages"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandoBarreto&layout=compact&theme=radical&title_color=FF69B4" alt="Top Languages"/>
   </a>
 </p>
