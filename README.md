@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Olá, eu sou o Luiz Fernando Barreto!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=550&lines=Transformando+ideias+em+interfaces+incríveis;Front-End+Developer+em+ascensão;HTML%2C+CSS+e+JavaScript+no+DNA;Apaixonado+por+tecnologia+e+design!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=800&lines=Transformando+ideias+em+interfaces+incríveis;Front-End+Developer+em+ascensão;HTML%2C+CSS+e+JavaScript+no+DNA;Apaixonado+por+tecnologia+e+design!" alt="Typing SVG" />
 </p>
 
 <p align="center">
