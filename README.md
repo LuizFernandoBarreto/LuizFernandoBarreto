@@ -17,7 +17,7 @@ Sou Luiz Fernando Barreto, estudante de programação com foco em **Desenvolvime
 ## 🔗 Minhas Redes
 
 <p align="left">
-  <a href="mailto:l.fernandobarreto1997@gmail.com" target="_blank">
+  <a href="mailto:l.fernandobarreto1997@gmail.com" target="https://mail.google.com/mail/u/0/#inbox">
   <img src="https://img.shields.io/badge/Copiar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
   </a>
