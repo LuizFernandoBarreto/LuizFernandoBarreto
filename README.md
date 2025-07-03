@@ -16,6 +16,9 @@ Sou Luiz Fernando Barreto, estudante de programação com foco em **Desenvolvime
 
 ## 🔗 Minhas Redes
 
+<a href="https://instagram.com/seu_username" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
   <a href="https://bit.ly/3I74ofr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
