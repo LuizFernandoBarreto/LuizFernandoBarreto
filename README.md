@@ -48,8 +48,6 @@ Sou Luiz Fernando Barreto, estudante de programação com foco em **Desenvolvime
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuizFernandoBarreto&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4" alt="GitHub Stats"/>
-</p>
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFernandoBarreto&layout=compact&theme=radical&title_color=FF69B4" alt="Top Languages"/>
 </p>
