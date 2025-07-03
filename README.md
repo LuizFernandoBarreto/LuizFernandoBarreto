@@ -55,3 +55,5 @@
 
 - 📧 **Email:** l.fernandobarreto1997@gmail.com  
 - 🔗 **LinkedIn:** https://bit.ly/3I74ofr
+- ![image](https://github.com/user-attachments/assets/b05015d5-9876-4d64-b5d3-b4c6470afa3b) https://wa.me/5511977662407
+
