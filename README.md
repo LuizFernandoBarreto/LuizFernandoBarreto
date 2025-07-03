@@ -34,7 +34,7 @@ Sou Luiz Fernando Barreto, estudante de programação com foco em **Desenvolvime
 
 ## 🚀 Linguagens e Tecnologias
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
